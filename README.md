@@ -1,2 +1,2 @@
 # TrainingV1
-First training 
+First Training 
