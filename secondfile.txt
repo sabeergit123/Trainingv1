@@ -1,2 +1,3 @@
 My second filetest to check the director can be committed once
 check one more time
+directories can be commited either
